@@ -1,4 +1,4 @@
---CREATİNG TABLE
+--CREATING TABLE
 
 create table market_sales_master(
 ID int,
